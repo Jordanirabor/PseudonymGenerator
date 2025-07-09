@@ -321,7 +321,7 @@ class ConsentKeysTestSuite {
     console.log(`📊 Total: ${this.testResults.length}`);
     
     if (failed === 0) {
-      console.log('\n🎉 All tests passed! The implementation is ready for production.');
+      console.log('\n🎉 All tests passed!');
     } else {
       console.log('\n⚠️  Some tests failed. Please review the implementation.');
     }
