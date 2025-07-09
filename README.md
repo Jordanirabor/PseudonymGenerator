@@ -17,9 +17,7 @@ you can either run the test suite or run the service directly to see the improve
 
 Located in `2. er_diagram/`
 
-Database schema documentation:
-
-- `ER.md` - Entity Relationship diagram and table overview
+Database schema documentation, entity relationship diagram and table overview
 
 
 ### 3. Internal Meeting
